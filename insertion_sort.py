@@ -31,5 +31,9 @@ if __name__ == "__main__":
 # Insertion Sort in Decreasing Order
 # Step through the array and insert each element into the correct position
 
+# Additional test case
+data2 = [45, 2, 19, 78, 33]
+insertion_sort_descending(data2)
+print("Sorted Array 2:", data2)
 
 
